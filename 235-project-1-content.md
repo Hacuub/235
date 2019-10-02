@@ -45,8 +45,12 @@ DOCUMENTATION
 |[Home](../index.html)|[Proposal](/proposal.html)|[Documentation](/documentation.html)|[Project](/project.html)|
 
 cite images used
+
 https://i.pinimg.com/originals/ca/7e/89/ca7e89ae306ca917074fb60d17d8d4bd.jpg
+
 https://cdn-www.bluestacks.com/bs-images/geometry-dash-subzero_banner.jpg
+
+https://gyazo.com/9872897c0f27221fd16c834f00082ff0
 
 
 PROJECT
