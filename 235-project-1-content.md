@@ -14,7 +14,7 @@ PROPOSAL
 ## Concept
 The game is going to be a nice simple infinite runner where you dodge obstacles as you go.
 
-##Genre
+## Genre
 the game is going to be a platformer
 
 ## Platform
@@ -50,6 +50,6 @@ https://cdn-www.bluestacks.com/bs-images/geometry-dash-subzero_banner.jpg
 
 
 PROJECT
-#H1 RUNNER
+# RUNNER
 |[Home](../index.html)|[Proposal](/proposal.html)|[Documentation](/documentation.html)|[Project](/project.html)|
 
