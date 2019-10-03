@@ -38,7 +38,7 @@ start screen will say press space to start
 
 ![alt text](https://cdn-www.bluestacks.com/bs-images/geometry-dash-subzero_banner.jpg "Similar Game")
 
-![alt text](https://gyazo.com/9872897c0f27221fd16c834f00082ff0 "Colro Pallete")
+![alt text](https://i.gyazo.com/9872897c0f27221fd16c834f00082ff0.png "Colro Pallete")
 
 ## About the Developer
 Jacob Kemp-Schneider is a Sophmore in RIT's Game Design and Development program.
@@ -57,7 +57,7 @@ https://i.pinimg.com/originals/ca/7e/89/ca7e89ae306ca917074fb60d17d8d4bd.jpg
 
 https://cdn-www.bluestacks.com/bs-images/geometry-dash-subzero_banner.jpg
 
-https://gyazo.com/9872897c0f27221fd16c834f00082ff0
+https://i.gyazo.com/9872897c0f27221fd16c834f00082ff0.png
 
 
 PROJECT
